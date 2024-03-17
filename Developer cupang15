@@ -1,0 +1,45 @@
+Developer cupang15
+
+Smart Contracts and Blockchain
+
+Re-entrancy
+
+Logic errors
+
+Including user authentication errors
+
+Trust/dependency vulnerabilities
+
+Composability vulnerabilities
+
+Oracle failure/manipulation
+
+Novel governance attacks
+
+Economic/financial attacks
+
+Flash loan attacks
+
+Congestion and scalability
+
+Running out of gas
+
+Block stuffing
+
+Susceptibility to front-running
+
+Consensus failures
+
+Cryptography problems
+
+Signature malleability
+
+Susceptibility to replay attacks
+
+Weak randomness
+
+Weak encryption
+
+Susceptibility to block timestamp manipulation
+
+Missing access controls / unprotected internal or debugging interfaces
